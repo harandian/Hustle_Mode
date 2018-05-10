@@ -12,6 +12,7 @@
 		7CD9087620A45944000AEB3B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7CD9087420A45944000AEB3B /* Main.storyboard */; };
 		7CD9087820A45947000AEB3B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7CD9087720A45947000AEB3B /* Assets.xcassets */; };
 		7CD9087B20A45947000AEB3B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7CD9087920A45947000AEB3B /* LaunchScreen.storyboard */; };
+		7CD9088320A4701C000AEB3B /* hustle-on.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7CD9088220A4701C000AEB3B /* hustle-on.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		7CD9087720A45947000AEB3B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7CD9087A20A45947000AEB3B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7CD9087C20A45947000AEB3B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7CD9088220A4701C000AEB3B /* hustle-on.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "hustle-on.wav"; path = "Assets.xcassets/hustle-on.dataset/hustle-on.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				7CD9087720A45947000AEB3B /* Assets.xcassets */,
 				7CD9087920A45947000AEB3B /* LaunchScreen.storyboard */,
 				7CD9087C20A45947000AEB3B /* Info.plist */,
+				7CD9088220A4701C000AEB3B /* hustle-on.wav */,
 			);
 			path = Hustle_Mode;
 			sourceTree = "<group>";
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7CD9088320A4701C000AEB3B /* hustle-on.wav in Resources */,
 				7CD9087B20A45947000AEB3B /* LaunchScreen.storyboard in Resources */,
 				7CD9087820A45947000AEB3B /* Assets.xcassets in Resources */,
 				7CD9087620A45944000AEB3B /* Main.storyboard in Resources */,
